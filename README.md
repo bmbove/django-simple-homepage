@@ -8,9 +8,10 @@ The posts and pages are created and edited through the admin interface and accep
 Markdown.
 
 **Install Info:**
-*requirements.txt for pip included
-*Set admin info and secret key in simple-homepage/settings/local.py
-*create a page named 'home'
+
+* requirements.txt for pip included
+* Set admin info and secret key in simple-homepage/settings/local.py
+* create a page named 'home'
 
 
 *Style and layout is the basic layout from [Jekyll](http://www.jekyllrb.com/)*
