@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% load markdown_tags %}
+
+{% block title %}
+{{page.name|title}}
+{% endblock %}
+
+{%block content %}
+    {{page.content|markdown_to_html|safe}}
+{%endblock%}
+
