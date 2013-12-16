@@ -11,6 +11,7 @@ Markdown.
 
 * requirements.txt for pip included
 * Set admin info and secret key in simple-homepage/settings/local.py
+* make sure to syncdb
 * create a page named 'home'
 
 
