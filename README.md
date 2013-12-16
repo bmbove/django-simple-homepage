@@ -7,8 +7,10 @@ with Django and SQLite.
 The posts and pages are created and edited through the admin interface and accept
 Markdown.
 
-requirements.txt for pip included
+**Install Info:**
+*requirements.txt for pip included
+*Set admin info and secret key in simple-homepage/settings/local.py
+*create a page named 'home'
 
-Set admin info and secret key in simple-homepage/settings/local.py
 
-Style and layout is the basic layout from [Jekyll](http://www.jekyllrb.com/)
+*Style and layout is the basic layout from [Jekyll](http://www.jekyllrb.com/)*
