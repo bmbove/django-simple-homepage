@@ -9,10 +9,9 @@ Markdown.
 
 **Install Info:**
 
-* requirements.txt for pip included
-* Set admin info and secret key in simple-homepage/settings/local.py
-* make sure to syncdb
-* create a page named 'home'
-
+ * pip install -r requirements.txt
+ * Change secret key in settings/local.py
+ * ./manage.py syncdb
+ * ./manage.py migrate
 
 *Style and layout is the basic layout from [Jekyll](http://www.jekyllrb.com/)*
